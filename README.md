@@ -1,4 +1,7 @@
-# mem-shellcode-detect
+# extract shellcode from memory
 
-detect and dump shellcode from memory 
+step 1: mkdir dump
+
+step 2 : python DynScan.py xxx.exe
+
 
